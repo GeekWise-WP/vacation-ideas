@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@vacation.ideas:
+  ssh: vagrant:vacation.ideas:/var/www/html
